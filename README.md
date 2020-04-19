@@ -8,7 +8,7 @@ In this project we build a landing page using:
 - BEM MEthodology
 - 7/1 Pattern
 
-Some of the advanced techiques used are:
+Some of the advanced CSS techiques used are:
 
 - Clip-path
 - Keyframe animations
