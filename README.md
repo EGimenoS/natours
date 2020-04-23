@@ -10,14 +10,15 @@ In this project we build a landing page using:
 
 Some of the advanced CSS techniques used here are:
 
-- clip-path
-- Keyframe animations
-- Transition animations
-- Use of ::after pseudo-element
-- Use of background-clip
-- Use of `backface-visibiliy` and `perspective`
+- clip-path.
+- Keyframe animations.
+- Transition animations.
+- Use of ::after pseudo-element.
+- Use of background-clip.
+- Use of `backface-visibiliy` and `perspective`.
 - Use of background blend modes.
 - Use of box-decoration-break
-- Use of shape-outside
+- Use of shape-outside.
+- Styling radio buttons.
 
-...and some more.
+...etc.
