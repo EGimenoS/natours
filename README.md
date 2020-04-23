@@ -18,3 +18,6 @@ Some of the advanced CSS techniques used here are:
 - Use of `backface-visibiliy` and `perspective`
 - Use of background blend modes.
 - Use of box-decoration-break
+- Use of shape-outside
+
+...and some more.

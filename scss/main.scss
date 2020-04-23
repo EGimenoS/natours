@@ -9,7 +9,6 @@
 @import "base/base";
 @import "base/animations";
 @import "base/typography";
-@import "base/utilities";
 
 // import styles for specific pages
 @import "pages/home";
@@ -19,6 +18,11 @@
 @import "components/composition";
 @import "components/feature_box";
 @import "components/card";
+@import "components/story";
+@import "components/bg-video";
 
+// import layout and grid helpers
 @import "layout/header";
 @import "layout/grid";
+
+@import "base/utilities";
