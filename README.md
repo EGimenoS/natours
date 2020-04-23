@@ -1,6 +1,6 @@
 ### Natour
 
-First project for the "Advanced CSS and SASS" course from Jonas Schmedtman.
+First project for the "Advanced CSS and SASS" course from Jonas Schmedtmann.
 
 In this project we build a landing page using:
 
