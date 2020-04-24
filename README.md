@@ -1,4 +1,4 @@
-### Natour
+### Natour :deciduous_tree:
 
 First project for the "Advanced CSS and SASS" course from Jonas Schmedtmann.
 
@@ -22,3 +22,7 @@ Some of the advanced CSS techniques used here are:
 - Styling radio buttons.
 
 ...etc.
+
+### To compile:
+
+run `npm build:css`
