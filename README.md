@@ -1,4 +1,4 @@
-### Natour :deciduous_tree:
+### Natours :deciduous_tree:
 
 First project for the "Advanced CSS and SASS" course from Jonas Schmedtmann.
 
